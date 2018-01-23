@@ -1,0 +1,39 @@
+#div1 h1{
+  color: #4682B4;
+}
+
+body {
+  background-color: #66CDAA;
+  font-family: 'Supermercado One', cursive;
+}
+
+#div1 table{
+  border: 5px double;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  margin-left: -157px;
+  margin-top: -71px;
+}
+
+#div1 td{
+  border: 2px dashed;
+}
+
+#div1 th{
+  border: 2px solid black;
+}
+
+#div1 img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -277.5px;
+  margin-top: -284.5px;
+}
+
+#diva img{
+  position: absolute;
+  top: 100%;
+  margin-top: -210px;
+}
